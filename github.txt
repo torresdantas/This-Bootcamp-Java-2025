@@ -1,3 +1,5 @@
+    Criar e Clonar:
+
 git init -> Transforma uma pasta em um repositório Github
 git clone + (URL)
 
@@ -11,5 +13,9 @@ git remote add origin + (URL repositório)
 git branch -M main
 git push -u origin main
 
-...................
+.........................................................
+
+    Salvar alterações:
+
+git status -> Mostra a area de arquivos empacotados para serem commitados
 
