@@ -19,3 +19,7 @@ git push -u origin main
 
 git status -> Mostra a area de arquivos empacotados para serem commitados
 
+    touch + (nome do arquivo.extensão) -> cria um arquivo vazio
+
+    https://readme.so/pt -> Criar arquivos para README.md
+git add + (nome do arquivo) -> adiciona o arquivo a area de preparação
