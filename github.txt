@@ -23,3 +23,5 @@ git status -> Mostra a area de arquivos empacotados para serem commitados
 
     https://readme.so/pt -> Criar arquivos para README.md
 git add + (nome do arquivo) -> adiciona o arquivo a area de preparação
+git add . -> todos os arquivos adicioados a area de preparação
+
