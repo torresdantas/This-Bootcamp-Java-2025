@@ -1,1 +1,14 @@
 git init -> Transforma uma pasta em um repositório Github
+git clone + (URL)
+
+cd .git -> Entrar na pasta .git (Configurações de Versionamento)
+
+cat config -> informações e configurações do repositório
+
+...................
+
+git remote add origin + (URL repositório)
+git branch -M main
+git push -u origin main
+
+...................
