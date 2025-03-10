@@ -27,3 +27,5 @@ git add . -> todos os arquivos adicioados a area de preparação
 rm -rf .git -> Remove a pasta e o versionamento GIT
 git commit -amend -m "" -> mudar mensagem do commit
 git restore + nome do arquivo.
+
+git reset soft / hard
