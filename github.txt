@@ -26,4 +26,4 @@ git add . -> todos os arquivos adicioados a area de preparação
     Desfazer alterações:
 rm -rf .git -> Remove a pasta e o versionamento GIT
 git restores + (nome do arquivo) -> restaura arquivos alterados (local)
-git commit --amend -m "texto a ser mudado"
+git commit --amend -m "texto a ser mudado".
