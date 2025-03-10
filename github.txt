@@ -6,7 +6,6 @@ git clone + (URL)
 cd .git -> Entrar na pasta .git (Configurações de Versionamento)
 
 cat config -> informações e configurações do repositório
-
 ...................
 
 git remote add origin + (URL repositório)
@@ -14,7 +13,6 @@ git branch -M main
 git push -u origin main
 
 .........................................................
-
     Salvar alterações:
 
 git status -> Mostra a area de arquivos empacotados para serem commitados
@@ -24,4 +22,6 @@ git status -> Mostra a area de arquivos empacotados para serem commitados
     https://readme.so/pt -> Criar arquivos para README.md
 git add + (nome do arquivo) -> adiciona o arquivo a area de preparação
 git add . -> todos os arquivos adicioados a area de preparação
-
+.........................................................
+    Desfazer alterações:
+rm -rf .git -> Remove a pasta e o versionamento GIT
